@@ -2,6 +2,7 @@
 						Assignment 3: Game for social good
 						     Game Design Document
 OVERVIEW:
+
 	spreading awareness towards solid waste management.
 The game will start with a story, making aware the player about the social cause, what are the issues, what are the ideal
 solutions, what is happening in the real world, what is his/her role/responsibility towards the issue.  In each of the levels,
