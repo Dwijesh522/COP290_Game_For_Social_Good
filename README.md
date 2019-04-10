@@ -2,7 +2,6 @@
 						Assignment 3: Game for social good
 						     Game Design Document
 OVERVIEW:
-
 	spreading awareness towards solid waste management.
 The game will start with a story, making aware the player about the social cause, what are the issues, what are the ideal
 solutions, what is happening in the real world, what is his/her role/responsibility towards the issue.  In each of the levels,
@@ -12,7 +11,6 @@ player will be tested.
 	    
 	
 Target platform/ Minimum Hardware:
-
 	Our target platform for the game will be Windows. We will use unity as an engine. Any player having age more than 10 years will be
 able to play the game because we will first teach and then ask them to play in each level.
 	
