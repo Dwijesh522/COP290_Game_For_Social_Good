@@ -1,6 +1,6 @@
-COP 290
-Assignment 3: Game for social good
-Game Design Document
+							   COP 290
+						Assignment 3: Game for social good
+						     Game Design Document
 OVERVIEW:
 	spreading awareness towards solid waste management.
 	The game will start with a story, making aware the player about the social cause, what are the issues, what are the ideal solutions, what is happening in the real world, what is his/her role/responsibility towards the issue.  In each of the levels, first, the player will get to learn some high level idea related to the social cause and will be tested through corresponding level. The last level will be the combination of all the levels and here the creativity and the context understanding of the player will be tested.
