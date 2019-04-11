@@ -29,7 +29,7 @@ We will use Music Genres according to the events occuring. We will have some cha
 	
 Game start- Main Menu- Charecter Selection:
 
-Single player game. Menu will contain the following options: Play, buy, controls settings, GDD, exit. Player will earn coins
+Single player game. Menu will contain the following options: New game, Continue game, (save game), buy, controls settings, GDD, exit. Player will earn coins
 according to his/her performance during solid waste management. To complete all the levels player might has to buy some tools.
 They can sell also. They will be given some initial coins and tools.
 	  
@@ -44,3 +44,112 @@ through the voice (some inbuild charecters talking) and through the text (like a
 player will have one-final round which will test the player’s overall understanding, creativity, social qualities. This level
 will start from the scratch and will end up with coming up with good product/idea for the solid waste management.
 	      
+In-game HUD:
+
+Diegetically HUD will be shown to the player in the starting of the game to give a glimplse of the game-play. Also during the 
+game player will be shown some HUD to give some important information. During the game HUD will be pop up when player will 
+focus/point to the specific objects.
+
+Multiplayer:
+
+Keeping in mind the small time duration for the project we have decided to make a single player game. If we will get extra time
+we will try to extend our singleplayer game to multyplayer game. For that we will try to make our game as modular as we can to 
+incorporate the changes.
+
+UI:
+
+Main Menu:
+
+The main menu will contain the following options: New game, Continue game, (save game), Buy, Controls settings, GDD, Exit. Technical details not decided yet.
+
+Player Customization/Store:
+
+There is no option provided for the ui involved with setting up the player. Player will have options for selling and buying the
+objects. They can buy and sell objects any time a/c to the coins they have/ coins they need.
+
+Game setup screen:
+
+The player will have an option to save the game either at fixed checkpoints locations or at any time(not decided yet).
+
+In-Game option Menu:
+
+(yet to add details)
+
+In-Game HUD:
+
+(Yet to add details)
+
+Game Over Screen:
+
+We might ask the player to get correct choices at the end of the game.
+(Yet to add other details)
+
+Level Selection:
+
+First, the player has to complete tutorial levels. To unlock next tutorial level player will need to get some threshold coins. 
+There will be two groups. First group will contain the tutorial levels and the second group will contain a single level combining 
+the tutorial concepts/ technics/ creativity. After completion of each level, the player will be motivated in some way to play the 
+next level.
+    
+        Complete Description of Levels:
+                (Yet to decide)
+
+Gameplay:
+
+(Yet to decide)
+
+Mechanics:
+
+(Yet to decide)
+
+Controls:
+
+(yet to decide)
+
+Modes:
+
+(Yet to decide)
+
+Winning The Match:
+
+Player have to earn enough coins to successfully complete the game.
+
+Score:
+
+(Yet to decide)
+
+Challenges of Importance:
+
+(Yet to decide)
+
+Missions and Achievements:
+
+(Yet to decide)
+
+Assets:
+
+(Yet to decide)
+
+Charectors:
+
+(Yet to decide)
+
+Objects:
+
+(Yet to decide)
+
+Equipment and Upgrades:
+
+(Yet to decide)
+
+Environmental:
+
+(Yet to decide)
+
+Audio:
+
+(Yet to decide)
+
+Back Story:
+
+(Yet to refine)
